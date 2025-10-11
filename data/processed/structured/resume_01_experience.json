@@ -1,0 +1,24 @@
+{
+  "name": "resume_01",
+  "total_experience_years": null,
+  "roles": [
+    {
+      "title": "anuva goyal d.o.b. 1st oc-ber 2000 gender female objective energetic, innovative engineering undergraduate, passionate about machine learning, nlp and deep learning for solving real -world problems, aiming - work in an organization providing great learning experience and growth opportunities for mutual benefit. education qualification institute cgpa year of completion b.tech. dayalbagh educational institute, cgpa 9.35 2023 electrical engineering till 4 dayalbagh, agra pursuing specialization in computer science semesters xii st. clare s senior secondary school, agra 94 2019 x st. clare s senior secondary school, agra cgpa 10 2017 internships and trainings internships completed an internship at genisup india pvt. ltd.",
+      "duration_raw": "july 2021 - aug 2021",
+      "start_year": 2021,
+      "end_year": 2021
+    },
+    {
+      "title": "nlp -pic modeling o worked on proxy rotation and utilization o learnt web scraping using bs4 and performed lda -pic modeling on the hindu news articles. worked as an intern at vugs technologies",
+      "duration_raw": "may 2021 - june 2021",
+      "start_year": 2021,
+      "end_year": 2021
+    },
+    {
+      "title": "o built an ocr using pytesseract and ner text classification model - categorize detected text in- name, e -mail address, phone number and date. trainings undertaking deep learning computer vision a -z opencv, ssd, gans course f rom udemy nov 2021 completed neural networks and deep learning course from coursera apr 2021 under-ok machine learning a -z hands on python and r in data science course from udemy feb 2021 completed python core course from sololearn dec 2020 projects currently working on mental healthcare chatbot ongoing built a full stack speech emotion based movie recommender system using the ravdess dataset for ser model, and web scraping techniques for recommendation system. oct 2021 finding a perfect fit , a model - parse resumes using pytesseract - extract text, nlp for data wrangling, and xg boost and random forest technique s for classification aug 2021 ocr for handwritten text, a model for digit 0 -9 a -z characters classification using cnn architecture - detect the final word in the image. june 2021 face detection and recognition using opencv and tensorflow may 20 21 face mask detection which detects the face using haar cascade classifier from opencv library and classifies the image in- one of the three categories - without mask, with mask and incorrect mask with the help of lbph algorithm may 2021 heart attack prediction and insurance company prediction using various classification algorithms. skills experience with c, c , python, java, html, css, javascript, data structures, sql software s pycharm, jupyter notebook, google colab, code blocks, matlab, turbo c , ms office machine learning frameworks scikit -learn, tensorflow, opencv, numpy, pytesseract, keras achievements and certifications secured 3rd position in tech -a-thon organized by the ece society, bit mesra, ranchi oct 2021 participant of 30 days of google cloud",
+      "duration_raw": "sep 2021 - oct 2021",
+      "start_year": 2021,
+      "end_year": 2021
+    }
+  ]
+}
