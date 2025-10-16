@@ -52,7 +52,7 @@ def process_file(file_path: Path):
         skills = extract_skills(text)
         result = {"name": file_path.stem, "skills": skills}
 
-        output_file = OUTPUT_FOLDER / f"{file_path.stem}.json"
+        output_file = OUTPUT_FOLDER / f"{file_path.stem}_skills.json"
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(result, f, indent=2)
 
